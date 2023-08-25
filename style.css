@@ -23,6 +23,15 @@ body {
     display: grid;
     grid-template-rows: 4.5fr 5.5fr; /* To line up with sidebar content on top" */
 }
+
+.header-top,
+.header-bottom,
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .main-content {
     display: grid;
     grid: 1fr 4fr 1fr 4fr 1fr / 7fr 3fr;
