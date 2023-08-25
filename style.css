@@ -14,6 +14,9 @@ body {
 
 .sidebar {
     grid-row: 1 / -1;
+    background-color: #06b6d4;
+    display: grid;
+    grid: 100px 1fr 1fr / 1fr;  /*Shorthand gird-rows / grid-columns*/
 }
 
 .item {
