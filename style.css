@@ -15,7 +15,6 @@ button {
     display: inline-block;
     position: relative;
     border: none;
-    margin: 10px;
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
@@ -115,6 +114,7 @@ input[type="search"] {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    gap: 30px;
 }
 
 .header-icons {
