@@ -29,7 +29,19 @@ img {
     grid-row: 2 / 3;
     display: grid;
 }
+ .sidebar-container {
+    display: grid;
+    grid-template-columns: 3fr 7fr;
+    gap: 10px;
+    justify-items: center;
+    align-items: center;
+ }
 
+ .icon-text {
+    display: flex;
+    justify-self: start;
+    align-self: center;
+ }
 .settings {
     grid-column: 1 / 3;
     grid-row: 3 / 4;
