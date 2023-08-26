@@ -9,6 +9,11 @@ img {
     max-height: 50px;
 }
 
+#big-icon {
+    max-width: 70px;
+    max-height: 70px;
+}
+
 .container {
     width: 100vw;
     height: 100vh;
