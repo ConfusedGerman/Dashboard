@@ -90,9 +90,3 @@ img {
 .left-content {
     grid-row: 2 / 5;
 }
-
-.item {
-    background-color: orange;
-    border: 1px solid black;
-    text-align: center;
-}
