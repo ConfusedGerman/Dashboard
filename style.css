@@ -117,6 +117,7 @@ input[type="search"] {
 .header-bottom,
 .flex {
     display: flex;
+    flex: 0 1 auto;
     justify-content: space-between;
     align-items: center;
     gap: 30px;
