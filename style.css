@@ -132,3 +132,15 @@ input[type="search"] {
 .left-content {
     grid-row: 2 / 5;
 }
+
+
+
+
+.placeholder1 {
+    max-height: 100px;
+    max-width: 100px;
+}
+.placeholder2 {
+    max-height: 140px;
+    max-width: 140px;
+}
