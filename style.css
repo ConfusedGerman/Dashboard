@@ -19,6 +19,18 @@ body {
     grid: 100px 1fr 1fr / 1fr 3fr;  /*Shorthand gird-rows / grid-columns*/
 }
 
+.options {
+    grid-column: 1 / 3;
+    grid-row: 2 / 3;
+    display: grid;
+}
+
+.settings {
+    grid-column: 1 / 3;
+    grid-row: 3 / 4;
+    display: grid;
+}
+
 .header {
     display: grid;
     grid-template-rows: 4.5fr 5.5fr; /* To line up with sidebar content on top" */
