@@ -38,6 +38,7 @@ img {
     grid-row: 2 / 3;
     display: grid;
     max-height: 480px;
+    padding-top: 20px;
 }
  .sidebar-container {
     display: grid;
@@ -45,6 +46,10 @@ img {
     gap: 10px;
     justify-items: center;
     align-items: center;
+ }
+
+ #sidebar-head-id {
+    height: 100px;
  }
 
  .icon-text {
