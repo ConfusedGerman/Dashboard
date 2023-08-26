@@ -88,6 +88,27 @@ button {
     grid-template-rows: 4.5fr 5.5fr; /* To line up with sidebar content on top" */
 }
 
+input[type="search"] {
+    background-color: #e5e7eb;
+    border: none;
+    border-radius: 30px;
+    min-height: 40px;
+    width: 700px;
+    font-size: 30px;
+}
+@media (max-width: 1400px) {
+    input[type="search"] {
+        font-size: 18px;
+        width: 400px;
+    }
+  }
+  @media (max-width: 768px) {
+    input[type="search"] {
+        font-size: 12px;
+        width: 200px;
+    }
+  }
+
 .header-top,
 .header-bottom,
 .flex {
