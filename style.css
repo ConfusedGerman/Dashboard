@@ -66,6 +66,7 @@ img {
     grid-row: 3 / 4;
     display: grid;
     max-height: 240px;
+    /* TODO: settings resize different on smaller screens then options */
 }
 
 .header {
