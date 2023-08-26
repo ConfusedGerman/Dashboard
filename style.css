@@ -146,6 +146,7 @@ input[type="search"] {
 .main-content {
     display: grid;
     grid: 1fr 4fr 1fr 4fr 1fr / 7fr 3fr;
+    background-color: #e5e7eb;
 }
 
 .left-content {
