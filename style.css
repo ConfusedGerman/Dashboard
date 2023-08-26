@@ -24,6 +24,11 @@ button {
     border-radius: 30px;
 }
 
+p {
+    margin: 0;
+    padding: 0;
+}
+
 #big-icon {
     max-width: 80px;
     max-height: 80px;
@@ -117,6 +122,11 @@ input[type="search"] {
     gap: 30px;
     margin-left: 30px;
     margin-right: 30px;
+}
+
+#account-name {
+    color: black;
+    font-size: 30px;
 }
 
 .header-icons {
