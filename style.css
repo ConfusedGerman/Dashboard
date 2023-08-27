@@ -172,7 +172,7 @@ input[type="search"] {
     display: grid;
     grid-template-rows: 2fr 6fr 2fr;
     border-radius: 20px;
-    background-color: red;
+    background-color: white;
 }
 
 .icon-flex {
