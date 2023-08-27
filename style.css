@@ -158,16 +158,19 @@ input[type="search"] {
     font-weight: bold;
     align-self: end;
     padding-left: 10px;
+    padding-bottom: 15px;
 }
 
 .left-content {
     display: grid;
     justify-content: space-around;
-    row-gap: 40px;
+    row-gap: 30px;
     grid-template-columns: repeat(auto-fit, 500px);
 }
 
 .left-content > div {
+    display: grid;
+    grid-template-rows: 2fr 6fr 2fr;
     border-radius: 20px;
     background-color: red;
 }
