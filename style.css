@@ -157,8 +157,11 @@ input[type="search"] {
     font-size: 25px;
     font-weight: bold;
     align-self: end;
-    padding-left: 10px;
     padding-bottom: 15px;
+}
+
+#left-headline {
+    padding-left: 10px;
 }
 
 .left-content {
