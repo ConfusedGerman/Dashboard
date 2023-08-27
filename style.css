@@ -226,6 +226,11 @@ input[type="search"] {
     font-size: 20px;
 }
 
+.flex-trending {
+    display: flex;
+    gap: 15px;
+}
+
 .placeholder1 {
     min-height: 100px;
     min-width: 100px;
