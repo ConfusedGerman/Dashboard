@@ -153,6 +153,13 @@ input[type="search"] {
     grid-row: 2 / 5;
 }
 
+.headline {
+    font-size: 25px;
+    font-weight: bold;
+    align-self: end;
+    padding-left: 10px;
+}
+
 
 
 
