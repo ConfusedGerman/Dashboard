@@ -218,6 +218,11 @@ input[type="search"] {
     padding-top: 10px;
 }
 
+.mini-headline {
+    font-weight: bold;
+    font-size: 20px;
+}
+
 .placeholder1 {
     min-height: 100px;
     min-width: 100px;
