@@ -160,6 +160,11 @@ input[type="search"] {
     padding-left: 10px;
 }
 
+.left-content {
+    display: grid;
+    justify-content: space-around;
+    grid-template-columns: repeat(auto-fit, 500px);
+}
 
 
 
