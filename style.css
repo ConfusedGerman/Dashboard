@@ -170,7 +170,7 @@ input[type="search"] {
 
 .left-content > div {
     display: grid;
-    grid-template-columns: 1fr 29fr;
+    grid-template-columns: 1fr 39fr;
     grid-template-rows: 2fr 6fr 2fr;
     border-radius: 20px;
     background-color: white;
@@ -189,9 +189,10 @@ input[type="search"] {
 }
 
 .yellow {
-    border-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
     grid-row: 1 / -1;
-    background-color: yellow;
+    background-color: #fbbf24;
 }
 
 .placeholder1 {
