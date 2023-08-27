@@ -170,6 +170,7 @@ input[type="search"] {
 
 .left-content > div {
     display: grid;
+    grid-template-columns: 1fr 29fr;
     grid-template-rows: 2fr 6fr 2fr;
     border-radius: 20px;
     background-color: white;
@@ -185,6 +186,12 @@ input[type="search"] {
 .content-icon {
     max-width: 40px;
     max-height: 40px;
+}
+
+.yellow {
+    border-radius: 20px;
+    grid-row: 1 / -1;
+    background-color: yellow;
 }
 
 .placeholder1 {
