@@ -198,6 +198,15 @@ input[type="search"] {
     background-color: #fbbf24;
 }
 
+.right-content {
+    display: grid;
+    background-color: white;
+    border-radius: 20px;
+    margin-right: 20px;
+    height: 100%;
+    max-width: 400px;
+}
+
 .placeholder1 {
     min-height: 100px;
     min-width: 100px;
