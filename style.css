@@ -240,11 +240,9 @@ input[type="search"] {
     padding-bottom: 5px;
 }
 
-.placeholder1 {
-    min-height: 100px;
-    min-width: 100px;
-    max-height: 100px;
-    max-width: 100px;
+.smallprofilepicture {
+    min-height: 70px;
+    min-width: 70px;
 }
 .bigprofilepicture {
     min-height: 110px;
