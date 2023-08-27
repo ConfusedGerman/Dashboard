@@ -204,17 +204,18 @@ input[type="search"] {
     border-radius: 20px;
     margin-right: 20px;
     height: 100%;
-    max-width: 370px;
+    max-width: 350px;
 }
 
-#top-right {
-    padding-left: 15px;
-    padding-right: 15px;
-}
-
+#top-right,
 #bottom-right {
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#top-right > .bottom-border {
+    border-bottom: 1px solid grey;
+    padding-top: 10px;
 }
 
 .placeholder1 {
