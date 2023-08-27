@@ -163,9 +163,14 @@ input[type="search"] {
 .left-content {
     display: grid;
     justify-content: space-around;
+    row-gap: 40px;
     grid-template-columns: repeat(auto-fit, 500px);
 }
 
+.left-content > div {
+    border-radius: 20px;
+    background-color: red;
+}
 
 
 .placeholder1 {
