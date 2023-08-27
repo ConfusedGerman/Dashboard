@@ -204,7 +204,17 @@ input[type="search"] {
     border-radius: 20px;
     margin-right: 20px;
     height: 100%;
-    max-width: 400px;
+    max-width: 370px;
+}
+
+#top-right {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#bottom-right {
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .placeholder1 {
