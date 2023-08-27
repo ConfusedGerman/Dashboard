@@ -178,6 +178,7 @@ input[type="search"] {
     grid-template-rows: 2fr 6fr 2fr;
     border-radius: 20px;
     background-color: white;
+    column-gap: 20px;
 }
 
 .icon-flex {
