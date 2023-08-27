@@ -175,6 +175,13 @@ input[type="search"] {
     background-color: red;
 }
 
+.icon-flex {
+    display: flex;
+    gap: 15px;
+    justify-content: end;
+    padding-right: 15px;
+}
+
 
 .placeholder1 {
     min-height: 100px;
