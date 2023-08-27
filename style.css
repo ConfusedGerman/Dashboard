@@ -207,6 +207,10 @@ input[type="search"] {
     max-width: 350px;
 }
 
+.right-content > div {
+    padding-top: 10px;
+}
+
 #top-right,
 #bottom-right {
     padding-left: 25px;
@@ -215,7 +219,6 @@ input[type="search"] {
 
 #top-right > .bottom-border {
     border-bottom: 1px solid grey;
-    padding-top: 10px;
 }
 
 .mini-headline {
