@@ -176,6 +176,7 @@ input[type="search"] {
 
 .headline {
     font-size: 25px;
+    font-family: 'BoldRoboto', sans-serif;
     font-weight: bold;
     align-self: end;
     padding-bottom: 15px;
