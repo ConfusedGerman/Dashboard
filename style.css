@@ -151,12 +151,14 @@ input[type="search"] {
     color: black;
     font-size: 40px;
     white-space: nowrap;
+    font-family: 'BoldRoboto', sans-serif;
 }
 
 .bold-smaller-text {
     white-space: nowrap;
     font-size: 25px;
     font-weight: bold;
+    font-family: 'BoldRoboto', sans-serif;
 }
 .header-icons {
     min-height: 40px;
