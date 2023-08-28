@@ -93,6 +93,13 @@ svg {
     font-family: 'BoldRoboto', sans-serif;
  }
 
+ .smaller-svg {
+    min-height: 25px;
+    min-width: 25px;
+    max-width: 50px;
+    max-height: 50px;
+ }
+
 .settings {
     grid-column: 1 / 3;
     grid-row: 3 / 4;
