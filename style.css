@@ -82,6 +82,8 @@ p {
     display: flex;
     justify-self: start;
     align-self: center;
+    font-size: 28px;
+    font-weight: 900;
  }
 .settings {
     grid-column: 1 / 3;
