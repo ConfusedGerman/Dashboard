@@ -34,6 +34,10 @@ p {
     padding: 0;
 }
 
+svg {
+    fill: white;
+  }
+
 #big-icon {
     max-width: 80px;
     max-height: 80px;
