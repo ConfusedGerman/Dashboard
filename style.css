@@ -186,13 +186,14 @@ input[type="search"] {
 }
 
 #project-headline {
-    padding-left: 10px;
+    padding-left: 50px;
 }
 
 .left-content {
+    padding-left: 50px;
     display: grid;
-    justify-content: space-around;
-    row-gap: 30px;
+    justify-content: start;
+    gap: 50px;
     grid-template-columns: repeat(auto-fit, 500px);
 }
 
